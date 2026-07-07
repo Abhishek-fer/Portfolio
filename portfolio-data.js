@@ -192,7 +192,7 @@ const PORTFOLIO_DATA = {
           "category": "Photo Manupulation & Mattee Painting",
           "categorySlug": "photo-manupulation-and-mattee-painting",
           "subProject": null,
-          "imagePath": "Photo%20Manupulation%20%26%20Mattee%20Painting/Matter%20Painting.jpg",
+          "imagePath": "Photo%20Manipulation%20%26%20Matte%20Painting/Matter%20Painting.jpg",
           "fileName": "Matter Painting.jpg",
           "fileSize": 1204416
         },
@@ -202,7 +202,7 @@ const PORTFOLIO_DATA = {
           "category": "Photo Manupulation & Mattee Painting",
           "categorySlug": "photo-manupulation-and-mattee-painting",
           "subProject": null,
-          "imagePath": "Photo%20Manupulation%20%26%20Mattee%20Painting/Sci-fi%20Matte.jpg",
+          "imagePath": "Photo%20Manipulation%20%26%20Matte%20Painting/Sci-fi%20Matte.jpg",
           "fileName": "Sci-fi Matte.jpg",
           "fileSize": 1025605
         },
@@ -212,7 +212,7 @@ const PORTFOLIO_DATA = {
           "category": "Photo Manupulation & Mattee Painting",
           "categorySlug": "photo-manupulation-and-mattee-painting",
           "subProject": null,
-          "imagePath": "Photo%20Manupulation%20%26%20Mattee%20Painting/Tortoise.jpg",
+          "imagePath": "Photo%20Manipulation%20%26%20Matte%20Painting/Tortoise.jpg",
           "fileName": "Tortoise.jpg",
           "fileSize": 6629983
         }
