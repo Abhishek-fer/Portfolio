@@ -14,7 +14,7 @@ const PORTFOLIO_DATA = {
           "category": "Branding",
           "categorySlug": "branding",
           "subProject": null,
-          "imagePath": "/Branding/Clown%20N%20Ninjasz.png",
+          "imagePath": "Branding/Clown%20N%20Ninjasz.png",
           "fileName": "Clown N Ninjasz.png",
           "fileSize": 2232520
         },
@@ -24,7 +24,7 @@ const PORTFOLIO_DATA = {
           "category": "Branding",
           "categorySlug": "branding",
           "subProject": null,
-          "imagePath": "/Branding/Nivaq.png",
+          "imagePath": "Branding/Nivaq.png",
           "fileName": "Nivaq.png",
           "fileSize": 1879206
         }
@@ -40,7 +40,7 @@ const PORTFOLIO_DATA = {
           "category": "Illustrations",
           "categorySlug": "illustrations",
           "subProject": null,
-          "imagePath": "/Illustrations/Duck.jpg",
+          "imagePath": "Illustrations/Duck.jpg",
           "fileName": "Duck.jpg",
           "fileSize": 269923
         },
@@ -50,7 +50,7 @@ const PORTFOLIO_DATA = {
           "category": "Illustrations",
           "categorySlug": "illustrations",
           "subProject": null,
-          "imagePath": "/Illustrations/Mind%20Burst.png",
+          "imagePath": "Illustrations/Mind%20Burst.png",
           "fileName": "Mind Burst.png",
           "fileSize": 1174265
         },
@@ -60,7 +60,7 @@ const PORTFOLIO_DATA = {
           "category": "Illustrations",
           "categorySlug": "illustrations",
           "subProject": null,
-          "imagePath": "/Illustrations/Oogway.jpg",
+          "imagePath": "Illustrations/Oogway.jpg",
           "fileName": "Oogway.jpg",
           "fileSize": 1257782
         },
@@ -70,7 +70,7 @@ const PORTFOLIO_DATA = {
           "category": "Illustrations",
           "categorySlug": "illustrations",
           "subProject": null,
-          "imagePath": "/Illustrations/Tanjiro.png",
+          "imagePath": "Illustrations/Tanjiro.png",
           "fileName": "Tanjiro.png",
           "fileSize": 1418192
         },
@@ -80,7 +80,7 @@ const PORTFOLIO_DATA = {
           "category": "Illustrations",
           "categorySlug": "illustrations",
           "subProject": null,
-          "imagePath": "/Illustrations/Toon%20Superhero.jpg",
+          "imagePath": "Illustrations/Toon%20Superhero.jpg",
           "fileName": "Toon Superhero.jpg",
           "fileSize": 2082967
         },
@@ -90,7 +90,7 @@ const PORTFOLIO_DATA = {
           "category": "Illustrations",
           "categorySlug": "illustrations",
           "subProject": null,
-          "imagePath": "/Illustrations/Toon%20Turtle.jpg",
+          "imagePath": "Illustrations/Toon%20Turtle.jpg",
           "fileName": "Toon Turtle.jpg",
           "fileSize": 68325
         }
@@ -106,7 +106,7 @@ const PORTFOLIO_DATA = {
           "category": "Logo",
           "categorySlug": "logo",
           "subProject": null,
-          "imagePath": "/Logo/Clown%20N%20Ninjasz.jpg",
+          "imagePath": "Logo/Clown%20N%20Ninjasz.jpg",
           "fileName": "Clown N Ninjasz.jpg",
           "fileSize": 830128
         },
@@ -116,7 +116,7 @@ const PORTFOLIO_DATA = {
           "category": "Logo",
           "categorySlug": "logo",
           "subProject": null,
-          "imagePath": "/Logo/D2O.jpg",
+          "imagePath": "Logo/D2O.jpg",
           "fileName": "D2O.jpg",
           "fileSize": 841272
         },
@@ -126,7 +126,7 @@ const PORTFOLIO_DATA = {
           "category": "Logo",
           "categorySlug": "logo",
           "subProject": null,
-          "imagePath": "/Logo/FM%20Marina.jpg",
+          "imagePath": "Logo/FM%20Marina.jpg",
           "fileName": "FM Marina.jpg",
           "fileSize": 136674
         },
@@ -136,7 +136,7 @@ const PORTFOLIO_DATA = {
           "category": "Logo",
           "categorySlug": "logo",
           "subProject": null,
-          "imagePath": "/Logo/KIDS.jpg",
+          "imagePath": "Logo/KIDS.jpg",
           "fileName": "KIDS.jpg",
           "fileSize": 1402473
         },
@@ -146,7 +146,7 @@ const PORTFOLIO_DATA = {
           "category": "Logo",
           "categorySlug": "logo",
           "subProject": null,
-          "imagePath": "/Logo/Nivaq.png",
+          "imagePath": "Logo/Nivaq.png",
           "fileName": "Nivaq.png",
           "fileSize": 2570405
         },
@@ -156,7 +156,7 @@ const PORTFOLIO_DATA = {
           "category": "Logo",
           "categorySlug": "logo",
           "subProject": null,
-          "imagePath": "/Logo/Packesel.jpg",
+          "imagePath": "Logo/Packesel.jpg",
           "fileName": "Packesel.jpg",
           "fileSize": 1278790
         },
@@ -166,7 +166,7 @@ const PORTFOLIO_DATA = {
           "category": "Logo",
           "categorySlug": "logo",
           "subProject": null,
-          "imagePath": "/Logo/Rules%20Bot.jpg",
+          "imagePath": "Logo/Rules%20Bot.jpg",
           "fileName": "Rules Bot.jpg",
           "fileSize": 2322119
         },
@@ -176,7 +176,7 @@ const PORTFOLIO_DATA = {
           "category": "Logo",
           "categorySlug": "logo",
           "subProject": null,
-          "imagePath": "/Logo/Snuggups.jpg",
+          "imagePath": "Logo/Snuggups.jpg",
           "fileName": "Snuggups.jpg",
           "fileSize": 1653058
         }
@@ -192,7 +192,7 @@ const PORTFOLIO_DATA = {
           "category": "Photo Manupulation & Mattee Painting",
           "categorySlug": "photo-manupulation-and-mattee-painting",
           "subProject": null,
-          "imagePath": "/Photo%20Manupulation%20%26%20Mattee%20Painting/Matter%20Painting.jpg",
+          "imagePath": "Photo%20Manupulation%20%26%20Mattee%20Painting/Matter%20Painting.jpg",
           "fileName": "Matter Painting.jpg",
           "fileSize": 1204416
         },
@@ -202,7 +202,7 @@ const PORTFOLIO_DATA = {
           "category": "Photo Manupulation & Mattee Painting",
           "categorySlug": "photo-manupulation-and-mattee-painting",
           "subProject": null,
-          "imagePath": "/Photo%20Manupulation%20%26%20Mattee%20Painting/Sci-fi%20Matte.jpg",
+          "imagePath": "Photo%20Manupulation%20%26%20Mattee%20Painting/Sci-fi%20Matte.jpg",
           "fileName": "Sci-fi Matte.jpg",
           "fileSize": 1025605
         },
@@ -212,7 +212,7 @@ const PORTFOLIO_DATA = {
           "category": "Photo Manupulation & Mattee Painting",
           "categorySlug": "photo-manupulation-and-mattee-painting",
           "subProject": null,
-          "imagePath": "/Photo%20Manupulation%20%26%20Mattee%20Painting/Tortoise.jpg",
+          "imagePath": "Photo%20Manupulation%20%26%20Mattee%20Painting/Tortoise.jpg",
           "fileName": "Tortoise.jpg",
           "fileSize": 6629983
         }
@@ -228,7 +228,7 @@ const PORTFOLIO_DATA = {
           "category": "Posters",
           "categorySlug": "posters",
           "subProject": null,
-          "imagePath": "/Posters/BMW.png",
+          "imagePath": "Posters/BMW.png",
           "fileName": "BMW.png",
           "fileSize": 2099628
         },
@@ -238,7 +238,7 @@ const PORTFOLIO_DATA = {
           "category": "Posters",
           "categorySlug": "posters",
           "subProject": null,
-          "imagePath": "/Posters/Little%20Crafts.png",
+          "imagePath": "Posters/Little%20Crafts.png",
           "fileName": "Little Crafts.png",
           "fileSize": 2125724
         },
@@ -248,7 +248,7 @@ const PORTFOLIO_DATA = {
           "category": "Posters",
           "categorySlug": "posters",
           "subProject": null,
-          "imagePath": "/Posters/M%27cD.png",
+          "imagePath": "Posters/M%27cD.png",
           "fileName": "M'cD.png",
           "fileSize": 1885154
         }
@@ -264,7 +264,7 @@ const PORTFOLIO_DATA = {
           "category": "Product Packaging",
           "categorySlug": "product-packaging",
           "subProject": null,
-          "imagePath": "/Product%20Packaging/AURICA%20ELIXIR-BF%2060%20TABLETS.jpeg",
+          "imagePath": "Product%20Packaging/AURICA%20ELIXIR-BF%2060%20TABLETS.jpeg",
           "fileName": "AURICA ELIXIR-BF 60 TABLETS.jpeg",
           "fileSize": 684083
         },
@@ -274,7 +274,7 @@ const PORTFOLIO_DATA = {
           "category": "Product Packaging",
           "categorySlug": "product-packaging",
           "subProject": null,
-          "imagePath": "/Product%20Packaging/AURICA%20MEMORY%20CARE%20TABLETS.jpeg",
+          "imagePath": "Product%20Packaging/AURICA%20MEMORY%20CARE%20TABLETS.jpeg",
           "fileName": "AURICA MEMORY CARE TABLETS.jpeg",
           "fileSize": 630629
         },
@@ -284,7 +284,7 @@ const PORTFOLIO_DATA = {
           "category": "Product Packaging",
           "categorySlug": "product-packaging",
           "subProject": null,
-          "imagePath": "/Product%20Packaging/AURICA%20SOMNI-S-01.jpg",
+          "imagePath": "Product%20Packaging/AURICA%20SOMNI-S-01.jpg",
           "fileName": "AURICA SOMNI-S-01.jpg",
           "fileSize": 11811079
         }
@@ -300,7 +300,7 @@ const PORTFOLIO_DATA = {
           "category": "Sketches",
           "categorySlug": "sketches",
           "subProject": null,
-          "imagePath": "/Sketches/Budhha.png",
+          "imagePath": "Sketches/Budhha.png",
           "fileName": "Budhha.png",
           "fileSize": 1105029
         },
@@ -310,7 +310,7 @@ const PORTFOLIO_DATA = {
           "category": "Sketches",
           "categorySlug": "sketches",
           "subProject": null,
-          "imagePath": "/Sketches/Dark.png",
+          "imagePath": "Sketches/Dark.png",
           "fileName": "Dark.png",
           "fileSize": 3252991
         },
@@ -320,7 +320,7 @@ const PORTFOLIO_DATA = {
           "category": "Sketches",
           "categorySlug": "sketches",
           "subProject": null,
-          "imagePath": "/Sketches/Midorima.png",
+          "imagePath": "Sketches/Midorima.png",
           "fileName": "Midorima.png",
           "fileSize": 615954
         },
@@ -330,7 +330,7 @@ const PORTFOLIO_DATA = {
           "category": "Sketches",
           "categorySlug": "sketches",
           "subProject": null,
-          "imagePath": "/Sketches/SKull.png",
+          "imagePath": "Sketches/SKull.png",
           "fileName": "SKull.png",
           "fileSize": 997301
         },
@@ -340,7 +340,7 @@ const PORTFOLIO_DATA = {
           "category": "Sketches",
           "categorySlug": "sketches",
           "subProject": null,
-          "imagePath": "/Sketches/Society.png",
+          "imagePath": "Sketches/Society.png",
           "fileName": "Society.png",
           "fileSize": 1012757
         },
@@ -350,7 +350,7 @@ const PORTFOLIO_DATA = {
           "category": "Sketches",
           "categorySlug": "sketches",
           "subProject": null,
-          "imagePath": "/Sketches/SSR.png",
+          "imagePath": "Sketches/SSR.png",
           "fileName": "SSR.png",
           "fileSize": 380574
         }
@@ -366,7 +366,7 @@ const PORTFOLIO_DATA = {
           "category": "Social Media Post",
           "categorySlug": "social-media-post",
           "subProject": null,
-          "imagePath": "/Social%20Media%20Post/Social%20Media%20Post%201.jpg",
+          "imagePath": "Social%20Media%20Post/Social%20Media%20Post%201.jpg",
           "fileName": "Social Media Post 1.jpg",
           "fileSize": 573431
         },
@@ -376,7 +376,7 @@ const PORTFOLIO_DATA = {
           "category": "Social Media Post",
           "categorySlug": "social-media-post",
           "subProject": null,
-          "imagePath": "/Social%20Media%20Post/Social%20Media%20Post%202.jpg",
+          "imagePath": "Social%20Media%20Post/Social%20Media%20Post%202.jpg",
           "fileName": "Social Media Post 2.jpg",
           "fileSize": 528560
         },
@@ -386,7 +386,7 @@ const PORTFOLIO_DATA = {
           "category": "Social Media Post",
           "categorySlug": "social-media-post",
           "subProject": null,
-          "imagePath": "/Social%20Media%20Post/Social%20Media%20Post%203.jpg",
+          "imagePath": "Social%20Media%20Post/Social%20Media%20Post%203.jpg",
           "fileName": "Social Media Post 3.jpg",
           "fileSize": 549462
         },
@@ -396,7 +396,7 @@ const PORTFOLIO_DATA = {
           "category": "Social Media Post",
           "categorySlug": "social-media-post",
           "subProject": null,
-          "imagePath": "/Social%20Media%20Post/Social%20Media%20Post%204.jpg",
+          "imagePath": "Social%20Media%20Post/Social%20Media%20Post%204.jpg",
           "fileName": "Social Media Post 4.jpg",
           "fileSize": 121946
         },
@@ -406,7 +406,7 @@ const PORTFOLIO_DATA = {
           "category": "Social Media Post",
           "categorySlug": "social-media-post",
           "subProject": null,
-          "imagePath": "/Social%20Media%20Post/Social%20Media%20Post%205.jpg",
+          "imagePath": "Social%20Media%20Post/Social%20Media%20Post%205.jpg",
           "fileName": "Social Media Post 5.jpg",
           "fileSize": 702847
         },
@@ -416,7 +416,7 @@ const PORTFOLIO_DATA = {
           "category": "Social Media Post",
           "categorySlug": "social-media-post",
           "subProject": null,
-          "imagePath": "/Social%20Media%20Post/Social%20Media%20Post%206.png",
+          "imagePath": "Social%20Media%20Post/Social%20Media%20Post%206.png",
           "fileName": "Social Media Post 6.png",
           "fileSize": 1928119
         }
