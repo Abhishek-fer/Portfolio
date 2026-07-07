@@ -183,34 +183,34 @@ const PORTFOLIO_DATA = {
       ]
     },
     {
-      "name": "Photo Manupulation & Mattee Painting",
-      "slug": "photo-manupulation-and-mattee-painting",
+      "name": "Photo Manipulation & Matte Painting",
+      "slug": "photo-manipulation-and-matte-painting",
       "projects": [
         {
-          "id": "photomanupulationmatteepainting-matterpaintingjpg",
-          "title": "Matter Painting",
-          "category": "Photo Manupulation & Mattee Painting",
-          "categorySlug": "photo-manupulation-and-mattee-painting",
+          "id": "photomanipulationmattepainting-mattepaintingjpg",
+          "title": "Matte Painting",
+          "category": "Photo Manipulation & Matte Painting",
+          "categorySlug": "photo-manipulation-and-matte-painting",
           "subProject": null,
-          "imagePath": "Photo%20Manipulation%20%26%20Matte%20Painting/Matter%20Painting.jpg",
-          "fileName": "Matter Painting.jpg",
+          "imagePath": "Photo%20Manipulation%20%26%20Matte%20Painting/Matte%20Painting.jpg",
+          "fileName": "Matte Painting.jpg",
           "fileSize": 1204416
         },
         {
-          "id": "photomanupulationmatteepainting-sci-fimattejpg",
+          "id": "photomanipulationmattepainting-sci-fimattejpg",
           "title": "Sci Fi Matte",
-          "category": "Photo Manupulation & Mattee Painting",
-          "categorySlug": "photo-manupulation-and-mattee-painting",
+          "category": "Photo Manipulation & Matte Painting",
+          "categorySlug": "photo-manipulation-and-matte-painting",
           "subProject": null,
           "imagePath": "Photo%20Manipulation%20%26%20Matte%20Painting/Sci-fi%20Matte.jpg",
           "fileName": "Sci-fi Matte.jpg",
           "fileSize": 1025605
         },
         {
-          "id": "photomanupulationmatteepainting-tortoisejpg",
+          "id": "photomanipulationmattepainting-tortoisejpg",
           "title": "Tortoise",
-          "category": "Photo Manupulation & Mattee Painting",
-          "categorySlug": "photo-manupulation-and-mattee-painting",
+          "category": "Photo Manipulation & Matte Painting",
+          "categorySlug": "photo-manipulation-and-matte-painting",
           "subProject": null,
           "imagePath": "Photo%20Manipulation%20%26%20Matte%20Painting/Tortoise.jpg",
           "fileName": "Tortoise.jpg",
